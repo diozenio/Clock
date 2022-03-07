@@ -2,7 +2,7 @@
   "name": "Clock",
   "version": "1.0.0",
   "description": "Clock made with HTML, CSS and Javascript",
-  "main": "./src/index.html",
+  "main": "index.html",
   "author": "Dionisio Barbosa ",
   "license": "MIT",
   "private": false
