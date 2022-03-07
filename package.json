@@ -1,0 +1,9 @@
+{
+  "name": "Clock",
+  "version": "1.0.0",
+  "description": "Clock made with HTML, CSS and Javascript",
+  "main": "index.js",
+  "author": "Dionisio Barbosa ",
+  "license": "MIT",
+  "private": false
+}
